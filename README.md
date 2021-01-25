@@ -2,7 +2,7 @@
 
 Testing out some tailwind features with react
 
-Contain:
+Contains: Basic set-up for Tailwind CSS
 
 - A basic Navbar
 - A simple card
