@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Class styling to the assigned class */
+.card-wrapper {
+  @apply max-w-xl mx-auto px-8 py-4 bg-white my-8 rounded-lg shadow-lg;
+}
+
+/* Run 'npx tailwindcss build src/index.css -o src/tailwind.css' to make the change alive */
